@@ -1,4 +1,4 @@
-            Tihami Rahman – Full-Stack Java Developer
+##Tihami Rahman – Full-Stack Java Developer
 
 About Me
 
