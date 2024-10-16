@@ -1,10 +1,7 @@
  ## Tihami Rahman
+[Hamza.tihami402@gmail.com](mailto:Hamza.tihami402@gmail.com)
 
-[Link](mailto:Hamza.tihami402@gmail.com) : Hamza.tihami402@gmail.com
-
-
-
- Full-Stack Java Developer
+Full-Stack Java Developer
 
 About Me
 
