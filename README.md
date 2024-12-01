@@ -9,17 +9,43 @@
 ## 👨‍💻 About Me  
 I'm a **full-stack Java developer** with a focus on solving problems and building scalable applications. I have a passion for **React** and am currently diving into **Data Structures and Algorithms (DSA)** to improve my problem-solving skills. I'm always keen to learn new technologies and enhance my programming expertise.
 
-### 🌟 Tech Stack  
-- **Backend**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
-- **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-- **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-orange)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
-### 🌱 **Currently Learning**  
-- **Data Structures and Algorithms (DSA)**  
+### Primary Language:
+- **Java**
+
+### Secondary Languages:
+- **JavaScript**  (React.js, ES6+)
+- **HTML5 & CSS3**  (Responsive design)
+
+### Backend Development:
+- **Spring Boot** 
+- **MySQL** 
+- **MongoDB**
+
+### Frontend Development:
+- **React.js** 
+- **Tailwind CSS**
+- **Thymeleaf**
+
+### Cloud & DevOps:
+- **AWS** 
+- **Git & GitHub**
+
 ---
-## ⏱️ **Time Spent This Week** ⏱️  
-Here’s how I’ve been spending my time this week:
 
+### 🌱 **Current Focus**  
+- **Data Structures and Algorithms (DSA)**: Continuously enhancing my problem-solving skills and logical thinking to tackle more complex challenges.
+ 
+---
 ## 📊 This Week I Spent My Time On:
 
 **Java ☕**  
@@ -38,7 +64,6 @@ Here’s how I’ve been spending my time this week:
 ⏰ 4 hrs  
 🟩🟩   
 
----
 
 ### Legend:
 - 🟩 **Green Box** = 2 hours
@@ -64,9 +89,4 @@ Here’s how I’ve been spending my time this week:
 
 ---
 
-## 🔗 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/TihamiDev)  
-- [Email](mailto:Hamza.tihami402@gmail.com)  
-
----
 
