@@ -1,5 +1,10 @@
 # Hi there, I'm **Tihami Rahman** 👋  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=tihamit.tihamit)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TihamiDev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/TihamiDev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/Hamza.hehe__)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tihamirahman.rahman)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Hamza.tihami402@gmail.com)
+  
 
 ## 👨‍💻 About Me  
 I'm a **full-stack Java developer** with a focus on solving problems and building scalable applications. I have a passion for **React** and am currently diving into **Data Structures and Algorithms (DSA)** to improve my problem-solving skills. I'm always keen to learn new technologies and enhance my programming expertise.
@@ -11,16 +16,34 @@ I'm a **full-stack Java developer** with a focus on solving problems and buildin
 
 ### 🌱 **Currently Learning**  
 - **Data Structures and Algorithms (DSA)**  
-- **React**  
-- **Spring Boot** for backend development
+---
+## ⏱️ **Time Spent This Week** ⏱️  
+Here’s how I’ve been spending my time this week:
+
+## 📊 This Week I Spent My Time On:
+
+**Java ☕**  
+⏰ 25 hrs 0 mins  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+**JavaScript 💻**  
+⏰ 8 hrs 30 mins  
+🟩🟩🟩🟩⬛
+
+ **React 💻**  
+⏰ 4 hrs 30 mins  
+🟩🟩⬛
+
+**Other 🔧**  
+⏰ 4 hrs  
+🟩🟩   
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihamit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tihamit&layout=compact&hide_border=true&langs_count=8" />
-</div>
+### Legend:
+- 🟩 **Green Box** = 2 hours
+- ⬛ **Black Box** = 30 minutes
+
 
 ---
 
@@ -42,7 +65,7 @@ I'm a **full-stack Java developer** with a focus on solving problems and buildin
 ---
 
 ## 🔗 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [LinkedIn](https://linkedin.com/in/TihamiDev)  
 - [Email](mailto:Hamza.tihami402@gmail.com)  
 
 ---
