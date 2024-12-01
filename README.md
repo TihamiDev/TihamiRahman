@@ -42,7 +42,9 @@ I'm a **full-stack Java developer** with a focus on solving problems and buildin
 ---
 
 ### 🌱 **Current Focus**  
-- **Data Structures and Algorithms (DSA)**: Continuously enhancing my problem-solving skills and logical thinking to tackle more complex challenges on platforms like **LeetCode** and **HackerRank**.
+- **Full-Stack Trading Platform**: Building a **real-time trading platform** with a market-inspired design using **Java**, **Spring Boot**, **React**, **WebSockets**, and **Tailwind CSS**. Focused on delivering a seamless user experience with live data integration, secure transactions, and a scalable backend to compete with industry-standard platforms.
+- **Data Structures and Algorithms (DSA)**: Sharpening my problem-solving skills through platforms like **LeetCode** and **HackerRank** to improve my coding efficiency and backend logic.
+
 
 ---
 
@@ -81,7 +83,9 @@ I'm a **full-stack Java developer** with a focus on solving problems and buildin
   A fully-featured **ERP system** built using **Laravel** and **MySQL** for managing educational institutions.  
 
 ---
-
 ## 🛠️ What I’m Working On  
 - 💻 **Improving my DSA skills** through platforms like **LeetCode** to become more efficient in problem-solving.
--
+- 🔧 **Enhancing my backend skills** by working with **Java**, **Spring Boot**, and real-time data integration through APIs.
+- 🚀 **Building a personal project** to integrate complex backend logic and optimize data handling.
+
+I'm always looking for new backend challenges and opportunities to collaborate on scalable and efficient systems, so feel free to reach out if you'd like to connect!
