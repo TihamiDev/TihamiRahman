@@ -4,6 +4,11 @@
 ## 👨‍💻 About Me  
 I'm a **full-stack Java developer** with a focus on solving problems and building scalable applications. I have a passion for **React** and am currently diving into **Data Structures and Algorithms (DSA)** to improve my problem-solving skills. I'm always keen to learn new technologies and enhance my programming expertise.
 
+### 🌟 Tech Stack  
+- **Backend**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+- **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+- **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
 ### 🌱 **Currently Learning**  
 - **Data Structures and Algorithms (DSA)**  
 - **React**  
