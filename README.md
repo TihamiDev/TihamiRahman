@@ -1,47 +1,41 @@
-   ## Tihami Rahman
-[Hamza.tihami402@gmail.com](mailto:Hamza.tihami402@gmail.com)
+# Hi there, I'm **Tihami Rahman** 👋  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=tihamit.tihamit)  
 
-Full-Stack Java Developer
+## 👨‍💻 About Me  
+I’m a passionate **full-stack Java developer** who loves solving problems and building scalable, real-world applications.  
 
-About Me
+### 🌟 Tech Stack  
+- **Backend**: ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)  
+- **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+- **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-*I’m Tihami Rahman, a dedicated full-stack Java developer with a strong focus on backend technologies like Java, Spring Boot,
-and Hibernate, combined with front-end expertise in React. My experience ranges from building secure and scalable web applications
-to managing real-time data in API-driven projects. I am always excited to tackle new challenges, especially those that allow me to 
-blend both my backend and frontend skills. My goal is to continuously enhance my knowledge and create applications that provide practical,
-user-friendly solutions.*
+---
 
-**Skills**
+## 📊 GitHub Stats  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihamit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tihamit&layout=compact&hide_border=true&langs_count=8"/>  
 
+---
 
-**Backend Development:**
+## 📆 Coding Activity (via WakaTime)  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- Core Java (OOP, Collections, Multithreading, Exception Handling)
+---
 
-- Spring Boot (REST API development, WebSocket integration)
+## 🌟 Featured Projects  
+- **[CoinDCX API Integration](https://github.com/tihamit/CoinDCX-API)**  
+  A real-time trading app built with Java, Spring Boot, and WebSockets.  
+- **[Smart Contact Manager](https://github.com/tihamit/SmartContactManager)**  
+  A secure, role-based contact management app with a dynamic UI.  
+- **[EduSynth ERP](https://github.com/tihamit/EduSynth)**  
+  An ERP system for managing educational institutions, built with Laravel and MySQL.  
 
-- JPA & Hibernate (Data persistence and efficient database interactions)
+---
 
-- MySQL (Database design, query optimization, schema management)
+## 🔗 Connect With Me  
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [Email](mailto:Hamza.tihami402@gmail.com)  
 
+---
 
-
-**Frontend Development:**
-
-- React.js (Component-based UI development)
-
-- JavaScript (DOM manipulation, ES6+)
-
-- Thymeleaf (Server-side rendering for dynamic content)
-
-- HTML5 & CSS3 (Responsive web design)
-
-
-
-**Other Technologies:**
-
-- WebSocket APIs (Real-time data handling)
-
-- Git & GitHub (Version control, collaborative development)
-
-- AWS (Cloud deployment and scaling)
