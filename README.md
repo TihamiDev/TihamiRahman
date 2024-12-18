@@ -51,20 +51,20 @@ I'm a **full-stack Java developer** with a focus on solving problems and buildin
 ## 📊 This Week I Spent My Time On:
 
 **Java ☕**  
-⏰ 25 hrs 0 mins  
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+⏰ 30 hrs 0 mins  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 **JavaScript 💻**  
-⏰ 8 hrs 30 mins  
-🟩🟩🟩🟩⬛
+⏰ 6 hrs 30 mins  
+🟩🟩🟩⬛
 
 **React 💻**  
-⏰ 4 hrs 30 mins  
+⏰ 3 hrs 30 mins  
 🟩🟩⬛
 
 **Other 🔧**  
-⏰ 4 hrs  
-🟩🟩   
+⏰ 6 hrs  
+🟩🟩🟩  
 
 *Note: This time is manually updated each week, tracking my development focus.*
 
